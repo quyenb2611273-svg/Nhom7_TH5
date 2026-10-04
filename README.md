@@ -4,7 +4,7 @@
 Infographic trình bày 5 lợi ích của công nghệ số
 trong học tập.
 
-## Công cụ AI
+## Công cụ sử dụng
 - Canva AI (Magic Design) được sử dụng để hỗ trợ
 tạo infographic. Sản phẩm đã được chỉnh sửa.
 - Hình ảnh: Unsplash (CC0)
