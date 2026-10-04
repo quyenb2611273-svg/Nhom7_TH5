@@ -26,9 +26,9 @@ Video ngắn (30 giây) giới thiệu lợi ích của công nghệ số trong 
 ## Công cụ sử dụng
 - Dựng video: CapCut (có sử dụng tính năng AI hỗ trợ như phụ đề tự động / cắt tự động / hiệu ứng chuyển cảnh)
 - Tài liệu video: Pexels (miễn phí bản quyền)
-  Video của olia danilevich từ Pexels: https://www.pexels.com/vi-vn/video/ban-may-tinh-xach-tay-con-gai-vi-t-4487956/
-  Video của Jack Sparrow  từ Pexels: https://www.pexels.com/vi-vn/video/doanh-nhan-dan-ong-nh-ng-ng-i-ban-5977498/
-  Video của John Guccione www.advergroup.com từ Pexels: https://www.pexels.com/vi-vn/video/seo-thi-t-k-web-tim-ki-m-google-4549682/
+  + Video của olia danilevich từ Pexels: https://www.pexels.com/vi-vn/video/ban-may-tinh-xach-tay-con-gai-vi-t-4487956/
+  + Video của Jack Sparrow  từ Pexels: https://www.pexels.com/vi-vn/video/doanh-nhan-dan-ong-nh-ng-ng-i-ban-5977498/
+  + Video của John Guccione www.advergroup.com từ Pexels: https://www.pexels.com/vi-vn/video/seo-thi-t-k-web-tim-ki-m-google-4549682/
 - Âm thanh: Freesound (CC0)
   https://freesound.org/s/816177/
 
