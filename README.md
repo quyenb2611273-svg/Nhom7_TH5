@@ -37,7 +37,9 @@ Video ngắn (30 giây) giới thiệu lợi ích của công nghệ số trong 
 Video tạo bởi CapCut, tài liệu từ Pexels/FreeSound (CC0).
 
 ## Giấy phép
-Creative Commons CC BY.
+Creative Commons CC BY 4.0
+
+https://creativecommons.org/licenses/by/4.0/
 
 ## Tệp
 - `video_cong_nghe_so.mp4`
